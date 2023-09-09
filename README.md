@@ -16,7 +16,8 @@ Here's a brief overview of what this code accomplishes:
 
 ### COCO Dataset Download and Extraction Guide:
 
-- Downloading and Extracting the COCO Dataset
+```python
+# Downloading and Extracting the COCO Dataset
 import wget  
 
 !mkdir coco  
